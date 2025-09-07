@@ -64,8 +64,6 @@ body {
 	transform-origin: top left;
 }
 
-img {
-	background-size: cover;
-	background-size: contain;
-	width: 100%;
+.container img {
+	max-width: 100%;
 }
