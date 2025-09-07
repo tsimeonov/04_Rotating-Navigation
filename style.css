@@ -76,6 +76,13 @@ nav ul {
 	padding-left: 30px;
 }
 
+nav ul li {
+	text-transform: uppercase;
+	color: #fff;
+	margin: 40px 0;
+	transform: translateX(-100%);
+}
+
 .container img {
 	max-width: 100%;
 }
