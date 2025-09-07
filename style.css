@@ -50,6 +50,10 @@ body {
 	outline: 3px solid red;
 }
 
+.circle button:focus {
+	outline: none;
+}
+
 img {
 	background-size: cover;
 	background-size: contain;
